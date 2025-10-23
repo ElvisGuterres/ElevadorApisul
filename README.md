@@ -9,6 +9,8 @@ O projeto está disponível no Railway:
 
 **Swagger UI:** [https://elevadorapisul-production.up.railway.app/swagger-ui/index.html](https://elevadorapisul-production.up.railway.app/swagger-ui/index.html)
 
+**Obs: Utilizar o server de produção, para evitar erros de CORS**
+
 ---
 
 Resumo das funcionalidades
