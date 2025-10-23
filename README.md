@@ -2,6 +2,15 @@
 
 Este projeto implementa a lógica para gerar relatórios sobre o uso de 5 elevadores em um prédio com 16 andares a partir de um arquivo de entrada `input.json`.
 
+---
+
+### Acesso Online
+O projeto está disponível no Railway:
+
+**Swagger UI:** [https://elevadorapisul-production.up.railway.app/swagger-ui/index.html](https://elevadorapisul-production.up.railway.app/swagger-ui/index.html)
+
+---
+
 Resumo das funcionalidades
 - Identifica o(s) andar(es) menos utilizado(s).
 - Identifica o(s) elevador(es) mais e menos frequentados e seus períodos de maior/menor fluxo.
